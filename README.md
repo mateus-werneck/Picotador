@@ -55,7 +55,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot_20210519-095108_Picotador2](https://user-images.githubusercontent.com/25112157/118816341-743ab680-b888-11eb-9260-5f748c3324cf.png)
+![Screenshot_20210519-095108_Picotador2](https://user-images.githubusercontent.com/25112157/118816603-b9f77f00-b888-11eb-9eba-58924c4dd34d.png)
+
 
 
 
