@@ -45,7 +45,6 @@
         <li><a href="#instalattion">Instalattion</a></li>
       </ul>
     </li>
-    <li><a href="#Usage">Usage</a></li>
     <li><a href="#português-brasil">Português Brasil</a></li>
   </ol>
 </details>
@@ -158,7 +157,6 @@
       </ul>
     </li>
         <li><a href="#instalação">Instalação</a></li>
-        <li><a href="#como-usar">Como Usar</a></li>
       </ul>
     </li>   
   </ol>
@@ -192,11 +190,7 @@
 <br />
 <br />
 
-### Como Usar
 
-
-<br />
-<br />
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
