@@ -17,7 +17,7 @@
     <br />
     Aplicativo Android para gerenciar Stories (Instagram)
     <br /> 
-    <a href="#português-brasil">Português Brasil</a>
+    <a href="#português-brasil">Português Brasil(Clique aqui)</a>
     <br />
     <br />
     <br />
