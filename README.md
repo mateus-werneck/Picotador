@@ -55,6 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+![Screenshot_20210519-095108_Picotador](https://user-images.githubusercontent.com/25112157/118816083-3a69b000-b888-11eb-9df6-e7c84aa2d8ee.png)
 
 
 
@@ -164,7 +165,8 @@
 
 ### Sobre O Projeto
 
-![CortarStories](https://user-images.githubusercontent.com/25112157/115719669-b2f55380-a352-11eb-8902-a6ed4a140062.jpg)
+![Screenshot_20210519-095108_Picotador](https://user-images.githubusercontent.com/25112157/118816111-405f9100-b888-11eb-814a-338853af337c.png)
+
 
 
 ##### Ferramentas Utilizadas
