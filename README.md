@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/mateus-werneck/MidiaSave">
+  <a href="https://github.com/mateus-werneck/Picotador">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -66,95 +66,13 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Prerequisites
-
-* Python
-  ```sh
-    https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe
-  ```
-
-    ![image](https://user-images.githubusercontent.com/25112157/112496747-bf8e8800-8d63-11eb-89ab-b777142e5566.png)
-
-
-* Dependencies
-  ```sh
-  pip install moviepy
-  ```
-
-
 ### Installation
-
-**Android**
 
 1. Download and Install APK file
 
  ```sh
-   Download CortarStories_arm.apk or CortarStories_x86.apk at https://github.com/mateus-werneck/CortarStories/releases
+   Download the latest apk at https://github.com/mateus-werneck/CortarStories/releases
    ```
-
-
-
-**Windows**
-
-1. Download the latest release
-   ```sh
-   Download StoriesCutter.zip on https://github.com/mateus-werneck/CortarStories/releases
-   ```
-2. Extract it anywhere you want
-
-3. Open StoriesCutter
-
-<br />
-
-**Linux**
-
-1. Install Python 
-    ```sh
-    sudo apt install python3.9
-     ```
-2. Clone the repository
-     ```sh
-    git clone  https://github.com/mateus-werneck/CortarStories.git
-     ```
-3. Open the directory
-    ```sh
-    cd CortarStories/Python
-     ```
-4. Execute StoriesCutter
-   ```sh
-    python3 StoriesCutter.py
-    ```
-5.Create an Alias (Optional)
-
-   ```sh
-    1. sudo nano ~/.bash_aliases  2.Then type: alias cut stories='python3 ~/CortarStories/Python/StoriesCutter.py'  3. Save file  4. source ~/.bash_aliases
-   ```
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-- Drag and Drop any videos you want
-
-![image](https://user-images.githubusercontent.com/25112157/112875859-1ca77800-909b-11eb-94a3-507cc24ab77d.png)
-
-- Click Start. The message "Converting Video(s)..." will show up
-
-![image](https://user-images.githubusercontent.com/25112157/112875111-2381bb00-909a-11eb-8a55-f4c1fe491bac.png)
-
-- Wait for the message confirming the conversion
-
-![image](https://user-images.githubusercontent.com/25112157/112878968-e966e800-909e-11eb-8c47-2671173ebdeb.png)
-
-- A new folder will be generated for each video inserted
-
-![image](https://user-images.githubusercontent.com/25112157/112876450-eb7b7780-909b-11eb-8a24-4e5d860fd171.png)
-
-
-
-
-## Things to do
--Implement method to abort operation when "Cancel" button is clicked
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -278,92 +196,6 @@
 
 <br />
 <br />
-
-# Windows e Linux
-
-### Pré-requisitos
-
-* Python
-  ```sh
-    https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe
-  ```
-
-    ![image](https://user-images.githubusercontent.com/25112157/112496747-bf8e8800-8d63-11eb-89ab-b777142e5566.png)
-
-
-* Dependências
-  ```sh
-  pip install moviepy
-  ```
-<br />
-<br />
-  
-### Instalação (Desktop)
-
-**Windows**
-
-1. Baixe a versão mais recente
-   ```sh
-   Baixe o arquivo CortarStories.zip em https://github.com/mateus-werneck/Picotador_Android/releases/tag/v0.1
-   ```
-2. Extraia a pasta CortarStories para o lugar que achar melhor
-
-3. Abra o arquivo CortarStories
-<br />
-
-
-**Linux**
-
-1. Instale o Python 
-    ```sh
-    sudo apt install python3.9
-     ```
-
-2. Clone o repositório
-     ```sh
-    git clone  https://github.com/mateus-werneck/CortarStories.git
-     ```
-3. Abra o diretório no terminal
-    ```sh
-    cd CortarStories/Python
-     ```
-4. Execute o programa CortarStories
-   ```sh
-    python3 CortarStories.py
-    ```
-5.Criar um Alias (Optional)
-
-   ```sh
-    1. sudo nano ~/.bash_aliases 2.Digite: alias cortar stories='python3 ~/CortarStories/Python/CortarStories.py' 3. Salve o arquivo 4. source ~/.bash_aliases
-   ```
-
-<br />
-<br />
-
-### Como Usar (Desktop)
-
-- Arraste quantos videos desejar processar
-
-![image](https://user-images.githubusercontent.com/25112157/112875859-1ca77800-909b-11eb-94a3-507cc24ab77d.png)
-
-- Clique em começar quando tiver inserido todos os videos. A mensagem "Convertendo Video..." irá aparecer
-
-![image](https://user-images.githubusercontent.com/25112157/112875111-2381bb00-909a-11eb-8a55-f4c1fe491bac.png)
-
-- Aguarde a mensagem de finalização
-
-![image](https://user-images.githubusercontent.com/25112157/112875242-51ff9600-909a-11eb-8afc-158f5b76f79c.png)
-    
-- Será gerada uma pasta nova para cada video inserido contendo as partes
-
-![image](https://user-images.githubusercontent.com/25112157/112876450-eb7b7780-909b-11eb-8a24-4e5d860fd171.png)
-
-
-<br />
-
-### O que Falta
-
--Implementar função para abortar operação quando o botão "Cancelar" for clicado (Windows/Linux)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
