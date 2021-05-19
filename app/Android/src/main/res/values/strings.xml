@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Picotador</string>
+    <string name="select">TODO</string>
+    <string name="selecione_um_video">Selecione um Vídeo</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="itemselected">itemSelected</string>
+    <string name="delete">Delete</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="sobre">Sobre</string>
+    <string name="configura_es">Configurações</string>
+    <string name="sdcardsynbol">sdcardSynbol</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="videosymbol">videoSymbol</string>
+    <string name="videothumbnail">videoThumbnail</string>
+    <string name="cancelButton">cancelButton</string>
+    <string name="progress">0%</string>
+
+
+</resources>

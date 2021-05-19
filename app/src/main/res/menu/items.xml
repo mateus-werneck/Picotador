@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/backButton"
+        android:clickable="true"
+        android:icon="?attr/actionModeCloseDrawable"
+        android:title="@string/cancelar"
+        android:visible="false"
+        android:orderInCategory="4"
+        app:showAsAction="ifRoom"
+
+        />
+
+    <item
+        android:id="@+id/itemSelected"
+        android:clickable="true"
+        android:title="@string/itemselected"
+        android:visible="false"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+
+        />
+
+
+    <item
+        android:id="@+id/delete"
+        android:clickable="true"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:orderInCategory="2"
+        android:title="@string/delete"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+
+
+
+    <item
+        android:id="@+id/share"
+        android:clickable="true"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/compartilhar"
+        android:visible="false"
+        android:orderInCategory="3"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/sobre"
+        android:title="@string/sobre"
+        android:visibility="invisible" />
+    <item
+        android:id="@+id/config"
+        android:title="@string/configura_es"
+        android:visibility="visible" />
+</menu>
