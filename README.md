@@ -55,7 +55,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot_20210519-095108_Picotador](https://user-images.githubusercontent.com/25112157/118816083-3a69b000-b888-11eb-9df6-e7c84aa2d8ee.png)
+![Screenshot_20210519-095108_Picotador2](https://user-images.githubusercontent.com/25112157/118816341-743ab680-b888-11eb-9260-5f748c3324cf.png)
+
 
 
 
@@ -165,7 +166,8 @@
 
 ### Sobre O Projeto
 
-![Screenshot_20210519-095108_Picotador](https://user-images.githubusercontent.com/25112157/118816111-405f9100-b888-11eb-814a-338853af337c.png)
+![Screenshot_20210519-095108_Picotador2](https://user-images.githubusercontent.com/25112157/118816384-7ef54b80-b888-11eb-9155-f98b1e14a478.png)
+
 
 
 
