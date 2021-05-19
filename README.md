@@ -9,7 +9,7 @@
     <img src="image/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Simple Stories Generator</h3>
+  <h3 align="center">Picotador</h3>
 
   <p align="center">
     Android App to manage Stories for Instagram
