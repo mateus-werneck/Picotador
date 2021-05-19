@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mateus-werneck/Picotador">
-    <img src=![iconfinder_SocialMedia_Instagram-Outline_2959748](https://user-images.githubusercontent.com/25112157/118813960-0b523f00-b886-11eb-8bc1-4298b5e22b96.png) alt="Logo" width="80" height="80">
+    <img src="![iconfinder_SocialMedia_Instagram-Outline_2959748](https://user-images.githubusercontent.com/25112157/118813960-0b523f00-b886-11eb-8bc1-4298b5e22b96.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Simple Stories Generator</h3>
