@@ -167,7 +167,8 @@
 
 ### Sobre O Projeto
 
-![Screenshot_20210519-095108_Picotador2](https://user-images.githubusercontent.com/25112157/118816384-7ef54b80-b888-11eb-9155-f98b1e14a478.png)
+![Screenshot_20210519-095108_Picotador2](https://user-images.githubusercontent.com/25112157/118816658-c8459b00-b888-11eb-8891-e761cbaf3b96.png)
+
 
 
 
