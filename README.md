@@ -75,7 +75,7 @@
 1. Download and Install APK file
 
  ```sh
-   Download the latest apk at https://github.com/mateus-werneck/CortarStories/releases
+   Download the latest apk at https://github.com/mateus-werneck/Picotador/releases
    ```
 
 
@@ -187,7 +187,7 @@
 1. Baixe e Instale o APK
 
  ```sh
-   Baixe o apk em https://github.com/mateus-werneck/Picotador_Android/releases
+   Baixe o apk em https://github.com/mateus-werneck/Picotador/releases
    ```
 <br />
 <br />
