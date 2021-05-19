@@ -123,22 +123,22 @@
 <br />
 <br />
 <p align="center">
-  <a href="https://github.com/mateus-werneck/MidiaSave">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/mateus-werneck/Picotador">
+    <img src="image/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Simple Media Saver</h3>
+  <h3 align="center">Picotador</h3>
 
   <p align="center">
-    Aplicação em Python para dividir qualquer vídeo em várias partes de 15 segundos cada
+    Aplicativo Android para gerenciar Stories (Instagram(
     <br />
     <br />
     <br />
     <br />
     ·
-    <a href="https://github.com/mateus-werneck/MidiaSave/issues">Reportar Bug</a>
+    <a href="https://github.com/mateus-werneck/Picotador/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/mateus-werneck/MidiaSave/issues">Requisitar Novo Recurso</a>
+    <a href="https://github.com/mateus-werneck/Picotador/issues">Requisitar Novo Recurso</a>
   </p>
 </p>
 
