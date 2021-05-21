@@ -132,7 +132,7 @@
   <h3 align="center">Picotador</h3>
 
   <p align="center">
-    Aplicativo Android para gerenciar Stories (Instagram(
+    Aplicativo Android para gerenciar Stories (Instagram)
     <br />
     <br />
     <br />
