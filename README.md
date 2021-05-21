@@ -157,6 +157,7 @@
       </ul>
     </li>
         <li><a href="#instalação">Instalação</a></li>
+    <li><a href="Como-usar">Como Usar</a></li>
       </ul>
     </li>   
   </ol>
@@ -190,6 +191,9 @@
 <br />
 <br />
 
+### Como Usar
+
+![Screenshot_20210519-105425_Picotador](https://user-images.githubusercontent.com/25112157/119064596-0ee2e480-b9b2-11eb-9abc-269825ab3e38.png)
 
 
 
