@@ -193,7 +193,9 @@
 
 ### Como Usar
 
-![Screenshot_20210519-105425_Picotador](https://user-images.githubusercontent.com/25112157/119064596-0ee2e480-b9b2-11eb-9abc-269825ab3e38.png)
+![Screenshot_20210519-105425_Picotador](https://user-images.githubusercontent.com/25112157/119064596-0ee2e480-b9b2-11eb-9abc-269825ab3e38.png) 
+![Screenshot_20210519-105425_Picotador_2](https://user-images.githubusercontent.com/25112157/119064682-405bb000-b9b2-11eb-8dc7-23fb484df2c6.png)
+
 
 
 
