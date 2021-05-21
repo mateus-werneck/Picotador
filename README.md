@@ -193,10 +193,11 @@
 
 ### Como Usar
 
-![Screenshot_20210519-105425_Picotador](https://user-images.githubusercontent.com/25112157/119064596-0ee2e480-b9b2-11eb-9abc-269825ab3e38.png) 
-![Screenshot_20210519-105425_Picotador_2](https://user-images.githubusercontent.com/25112157/119064682-405bb000-b9b2-11eb-8dc7-23fb484df2c6.png)
-![Screenshot_20210519-105425_Picotador_3](https://user-images.githubusercontent.com/25112157/119064734-608b6f00-b9b2-11eb-890d-1f1215188293.png)
-![Screenshot_20210519-105425_Picotador_4](https://user-images.githubusercontent.com/25112157/119064735-61240580-b9b2-11eb-9c6e-622e8e002652.png)
+![Screenshot_20210519-105425_Picotador](https://user-images.githubusercontent.com/25112157/119064833-9fb9c000-b9b2-11eb-9478-9c591b332f34.png)
+![Screenshot_20210519-105425_Picotador_2](https://user-images.githubusercontent.com/25112157/119064836-a0525680-b9b2-11eb-8ea8-3c0e655d0402.png)
+![Screenshot_20210519-105425_Picotador_3](https://user-images.githubusercontent.com/25112157/119064838-a0525680-b9b2-11eb-8805-9cf8e1a69213.png)
+![Screenshot_20210519-105425_Picotador_4](https://user-images.githubusercontent.com/25112157/119064839-a0eaed00-b9b2-11eb-9468-5529e9f91398.png)
+
 
 
 
